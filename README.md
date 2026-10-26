@@ -49,6 +49,17 @@ My current focus includes:
 - Software architecture
 - Maintainable and testable application design
 
+```mermaid
+flowchart LR
+    A(["🎮 3 years of Unity / C# game development"]) --> B["📚 .NET Full Stack Developer course"]
+    A --> C["🔥 Motivation<br/>Expand my skills beyond game engines"]
+    B --> D(["🎯 Goal: Full Stack Developer on your team"])
+    C --> D
+
+    style A fill:#1f2937,stroke:#9ca3af,color:#fff
+    style D fill:#2ea44f,stroke:#2ea44f,color:#fff
+```
+
 ## 🌟 Featured Work
 
 ### 🌐 Developer Portfolio
