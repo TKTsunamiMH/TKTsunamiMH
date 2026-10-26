@@ -38,7 +38,7 @@
 
 ## 🚀 What I'm Working On
 
-I'm currently transitioning from **Game Programmer → Software Developer** and building projects that demonstrate my skills outside of game engines.
+🎓 Currently studying **.NET Full Stack System Developer**, building projects in C#, ASP.NET Core and SQL.
 
 My current focus includes:
 
@@ -60,6 +60,8 @@ My portfolio contains professional and personal programming work, including C#, 
 ### 🎮 Save Growlithe — JavaScript Browser Project
 
 A browser-based 2D project built with **vanilla JavaScript, HTML, and CSS**, without a game engine.
+
+[Play](https://tktsunamimh.github.io/) · [Source](https://github.com/TKTsunamiMH/TKTsunamiMH.github.io)
 
 Implemented systems including:
 
