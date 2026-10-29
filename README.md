@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Marie 💫
 
-🔗 [Portfolio](https://tktsunamimh.github.io/) · [LinkedIn](https://www.linkedin.com/in/marie-luise-hellstr%C3%B6m-3b1338190/)
+🔗 [Portfolio](https://tktsunamimh.github.io/) · [LinkedIn](https://www.linkedin.com/in/marie-hellstrom/)
 
 💡 **Software Developer** with 3 years of professional programming experience and a background in **C# / Unity game development**.
 
@@ -84,4 +84,4 @@ Implemented systems including:
 
 I'm currently open to opportunities in **software development** where I can combine my existing programming experience with continued growth in backend and application development.
 
-[Portfolio](https://tktsunamimh.github.io/) · [LinkedIn](https://www.linkedin.com/in/marie-luise-hellstr%C3%B6m-3b1338190/)
+[Portfolio](https://tktsunamimh.github.io/) · [LinkedIn](https://www.linkedin.com/in/marie-hellstrom/)
